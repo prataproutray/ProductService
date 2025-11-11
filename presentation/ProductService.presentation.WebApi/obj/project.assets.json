@@ -1910,11 +1910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
+      "projectUniqueName": "/home/pratap/pratap/Repos/ProductService-1/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
       "projectName": "ProductService.presentation.WebApi",
-      "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
+      "projectPath": "/home/pratap/pratap/Repos/ProductService-1/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
       "packagesPath": "/home/pratap/.nuget/packages/",
-      "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/obj/",
+      "outputPath": "/home/pratap/pratap/Repos/ProductService-1/presentation/ProductService.presentation.WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pratap/.nuget/NuGet/NuGet.Config"
@@ -1930,11 +1930,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj": {
-              "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj"
+            "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.application/ProductService.core.application.csproj": {
+              "projectPath": "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.application/ProductService.core.application.csproj"
             },
-            "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj": {
-              "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj"
+            "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj": {
+              "projectPath": "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj"
             }
           }
         }

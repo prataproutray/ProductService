@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttc9pbbfQSk=",
+  "dgSpecHash": "1DeolrM4kpQ=",
   "success": true,
-  "projectFilePath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
+  "projectFilePath": "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/pratap/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/home/pratap/.nuget/packages/microsoft.entityframeworkcore/9.0.9/microsoft.entityframeworkcore.9.0.9.nupkg.sha512",

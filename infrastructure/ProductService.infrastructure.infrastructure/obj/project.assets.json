@@ -1150,11 +1150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
+      "projectUniqueName": "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
       "projectName": "ProductService.infrastructure.infrastructure",
-      "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
+      "projectPath": "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
       "packagesPath": "/home/pratap/.nuget/packages/",
-      "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/",
+      "outputPath": "/home/pratap/pratap/Repos/ProductService-1/infrastructure/ProductService.infrastructure.infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pratap/.nuget/NuGet/NuGet.Config"
@@ -1170,8 +1170,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {
-              "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj"
+            "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj": {
+              "projectPath": "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj"
             }
           }
         }

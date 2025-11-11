@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {}
+    "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj": {}
   },
   "projects": {
-    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {
+    "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj",
+        "projectUniqueName": "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj",
         "projectName": "ProductService.core.domain",
-        "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj",
+        "projectPath": "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/ProductService.core.domain.csproj",
         "packagesPath": "/home/pratap/.nuget/packages/",
-        "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/obj/",
+        "outputPath": "/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pratap/.nuget/NuGet/NuGet.Config"

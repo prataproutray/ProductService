@@ -9,3 +9,15 @@
 /home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/obj/Debug/net9.0/refint/ProductService.core.domain.dll
 /home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.pdb
 /home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/obj/Debug/net9.0/ref/ProductService.core.domain.dll
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/bin/Debug/net9.0/ProductService.core.domain.deps.json
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/bin/Debug/net9.0/ProductService.core.domain.dll
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/bin/Debug/net9.0/ProductService.core.domain.pdb
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.AssemblyInfoInputs.cache
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.AssemblyInfo.cs
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.csproj.CoreCompileInputs.cache
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.sourcelink.json
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.dll
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/refint/ProductService.core.domain.dll
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ProductService.core.domain.pdb
+/home/pratap/pratap/Repos/ProductService-1/core/ProductService.core.domain/obj/Debug/net9.0/ref/ProductService.core.domain.dll
