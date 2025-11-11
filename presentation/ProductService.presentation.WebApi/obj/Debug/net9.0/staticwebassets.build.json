@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XVp+QKEGrK4JppHCa/k0S1l61w+4FlSOcTkpnkxLbBA=",
+  "Source": "ProductService.presentation.WebApi",
+  "BasePath": "_content/ProductService.presentation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

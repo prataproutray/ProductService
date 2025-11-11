@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj": {}
+  },
+  "projects": {
+    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj",
+        "projectName": "ProductService.core.application",
+        "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj",
+        "packagesPath": "/home/pratap/.nuget/packages/",
+        "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pratap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {
+                "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj",
+        "projectName": "ProductService.core.domain",
+        "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj",
+        "packagesPath": "/home/pratap/.nuget/packages/",
+        "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pratap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
+        "projectName": "ProductService.infrastructure.infrastructure",
+        "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj",
+        "packagesPath": "/home/pratap/.nuget/packages/",
+        "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pratap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj": {
+                "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.domain/ProductService.core.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
+        "projectName": "ProductService.presentation.WebApi",
+        "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj",
+        "packagesPath": "/home/pratap/.nuget/packages/",
+        "outputPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/presentation/ProductService.presentation.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pratap/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj": {
+                "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/ProductService.core.application.csproj"
+              },
+              "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj": {
+                "projectPath": "/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/ProductService.infrastructure.infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

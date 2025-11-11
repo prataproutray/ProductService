@@ -1,0 +1,15 @@
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.csproj.AssemblyReference.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.AssemblyInfoInputs.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.AssemblyInfo.cs
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.csproj.CoreCompileInputs.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/bin/Debug/net9.0/ProductService.core.application.deps.json
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/bin/Debug/net9.0/ProductService.core.application.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/bin/Debug/net9.0/ProductService.core.application.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/bin/Debug/net9.0/ProductService.core.domain.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/bin/Debug/net9.0/ProductService.core.domain.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductS.9FEDEC88.Up2Date
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/refint/ProductService.core.application.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ProductService.core.application.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/core/ProductService.core.application/obj/Debug/net9.0/ref/ProductService.core.application.dll

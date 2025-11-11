@@ -1,0 +1,15 @@
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/bin/Debug/net9.0/ProductService.infrastructure.infrastructure.deps.json
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/bin/Debug/net9.0/ProductService.infrastructure.infrastructure.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/bin/Debug/net9.0/ProductService.infrastructure.infrastructure.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.AssemblyInfoInputs.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.AssemblyInfo.cs
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.csproj.CoreCompileInputs.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/refint/ProductService.infrastructure.infrastructure.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ref/ProductService.infrastructure.infrastructure.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/bin/Debug/net9.0/ProductService.core.domain.dll
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/bin/Debug/net9.0/ProductService.core.domain.pdb
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductService.infrastructure.infrastructure.csproj.AssemblyReference.cache
+/home/pratap/pratap/DotNetProjects/servicestore/ProductService/infrastructure/ProductService.infrastructure.infrastructure/obj/Debug/net9.0/ProductS.DD4FD43C.Up2Date
