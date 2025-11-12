@@ -26,6 +26,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           context: .
-          file: ./Dockerfile # Adjust path if your Dockerfile is in a subdirectory
+          file: ./presentation/Dockerfile # Adjust path if your Dockerfile is in a subdirectory
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/your-image-name:latest
