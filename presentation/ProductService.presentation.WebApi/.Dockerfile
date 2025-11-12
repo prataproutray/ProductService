@@ -1,10 +1,10 @@
 # Use a .NET 9 SDK image to build the application
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-WORKDIR /ProductService-1
-COPY ["ProductService.presentation.WebApi.csproj", "ProductService.presentation/"]
-RUN dotnet restore "ProductService.presentation/ProductService.presentation.WebApi.csproj"
+WORKDIR /src
+COPY ["presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj", "presentation/ProductService.presentation.WebApi/"]
+RUN dotnet restore "presentation/ProductService.presentation.WebApi/ProductService.presentation.WebApi.csproj"
 COPY . .
-WORKDIR "/ProductService-1/ProductService.presentation"
+WORKDIR "/src/presentation/ProductService.presentation.WebApi"
 RUN dotnet build "ProductService.presentation.WebApi.csproj" -c Release -o /app/build
 
 # Use a .NET 9 ASP.NET Core runtime image for the final application
