@@ -13,13 +13,16 @@ namespace ProductService.presentation.WebApi
     public class UserController : ControllerBase
     {
         private readonly IMediator _mediator;
-        public UserController(IMediator mediator)
+        private readonly ILogger<UserController> _logger;
+        public UserController(IMediator mediator, ILogger<UserController> logger)
         {
             _mediator = mediator;
+            _logger = logger;
         }
         [HttpPost]
         public async Task<IActionResult> CreateUser([FromBody] CreateUserCommand createUserCommand)
         {
+            _logger.LogInformation("Creating user with name: {UserName}", createUserCommand.user.userName);
             var resp = await _mediator.Send(createUserCommand);
             return Ok(resp);
         }
