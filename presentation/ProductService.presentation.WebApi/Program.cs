@@ -8,10 +8,19 @@ using ProductService.infrastructure.infrastructure.DBContext;
 using ProductService.infrastructure.infrastructure.Repository;
 using ProductService.presentation.WebApi.configurations;
 using ProductService.presentation.WebApi.Middleware;
+using Serilog;
+using Serilog.Events;
+using Microsoft.Extensions.Hosting;
 
-
+Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Debug() // Set the minimum log level
+            .MinimumLevel.Override("Microsoft", LogEventLevel.Warning) // Override for specific namespaces
+            .Enrich.FromLogContext()
+            .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day) // Log to a file, rolling daily
+            .CreateLogger();
+ Log.Information("Starting application...");
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Host.UseSerilog();
 // Add services to the container.
 builder.Services
 .RegisterDb(builder.Configuration)
